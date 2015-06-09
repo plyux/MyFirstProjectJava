@@ -28,5 +28,11 @@ public class Main {
         Field field = new Field();
         field.eraseField();
         field.showField();
+
+        //-----lesson6-------;
+
+        Field fieldNew = new Field(4);
+        fieldNew.showField();
+
     }
 }
